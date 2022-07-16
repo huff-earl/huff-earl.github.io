@@ -1,18 +1,9 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am an Assistant Professor at the University of Texas at Austin's [School of Information](https://www.ischool.utexas.edu/). I co-founded and co-direct the REALITY Lab.  I received my Ph.D. in Human-Centered Computing from [Clemson University](https://clemson.edu/) under the supervision of Dr. Julian Brinkley. Prior to the Ph.D., I earned my M.S. and B.S. in Computer Science from [Rowan University](https://rowan.edu).
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+My research is in human-computer interaction, computing education, and broadening participation. My research examines how to apply a human-centered approach to design, develop, and evaluate equitable and inclusive information and communication technology (ICT). I primarily focus on inclusion and access for persons from historically underserved populations such as marginalized racial and ethnic groups, persons with disabilities, and aging adults. My current research focuses on equity and accessibility in electronic learning (e-learning) technologies. My secondary research looks at designing, developing, and deploying interventions for increasing the awareness, interest, and self-efficacy of K-12 students in pursuing careers in computer and information science.
